@@ -1,5 +1,3 @@
-""" Exercise #1 : Hello, World! """
-
 print("Hello, world!")
 print("What is your name?")
 name = input()
